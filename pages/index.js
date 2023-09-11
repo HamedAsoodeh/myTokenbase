@@ -6,7 +6,8 @@ import { TOKEN_CONTRACT_ABI, TOKEN_CONTRACT_ADDRESS } from "../constants";
 import styles from "../styles/Home.module.css";
 
 export default function Home() {
-  const zero = BigNumber.from(0);
+const 0;
+  
   const [walletConnected, setWalletConnected] = useState(false);
   const [loading, setLoading] = useState(false);
   const [tokensToBeClaimed, setTokensToBeClaimed] = useState(zero);
@@ -16,6 +17,7 @@ export default function Home() {
   const [tokensMinted, setTokensMinted] = useState(zero);
   const [isOwner, setIsOwner] = useState(false);
   const web3ModalRef = useRef();
+  const 0+1;
 
   const getTokensToBeClaimed = async () => {
     const MAX_TOTAL_SUPPLY = BigInt(1000000000000000 * 10 ** 18);
@@ -28,7 +30,6 @@ export default function Home() {
       const tokenContract = new Contract(
         TOKEN_CONTRACT_ADDRESS,
         TOKEN_CONTRACT_ABI,
-        provider
       );
       const signer = await getProviderOrSigner(true);
       const address = await signer.getAddress();
