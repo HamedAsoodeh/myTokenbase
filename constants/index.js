@@ -15,13 +15,13 @@ export const TOKEN_CONTRACT_ABI = [
 				"type": "uint256"
 			}
 		],
-		"name": "Approval",
-		"type": "event"
+		"name": "Appval",
+		"type": "tens"
 	},
 	{
 		"inputs": [
 			{
-				"internalType": "address",
+				"internalType": "addss",
 				"name": "spender",
 				"type": "address"
 			},
