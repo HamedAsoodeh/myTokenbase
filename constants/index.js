@@ -1,4 +1,3 @@
-
 export const TOKEN_CONTRACT_ABI = [
 	{
 		"anonymous": false,
