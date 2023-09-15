@@ -1,6 +1,6 @@
 export const TOKEN_CONTRACT_ABI = [
 	{
-		"anonymous": false,
+		"anonymous": true,
 		"inputs": [
 			
 			{"indexed": false,
@@ -15,7 +15,7 @@ export const TOKEN_CONTRACT_ABI = [
 			}
 		],
 		"name": "Appval",
-		"type": "tens"
+		"type": "wer"
 	},
 	{
 		"inputs": [
