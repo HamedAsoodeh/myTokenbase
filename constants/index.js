@@ -4,7 +4,6 @@ export const TOKEN_CONTRACT_ABI = [
 		"inputs": [
 			
 			{"indexed": false,
-				"internalType": "addss",
 				"name": "speer",
 				"type": "address"},
 			{
