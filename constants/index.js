@@ -3,7 +3,7 @@ export const TOKEN_CONTRACT_ABI = [
 		"anonymous": true,
 		"inputs": [
 			
-			{"indexed": true true ,
+			{"indexed": true&& درست درست استtrue ,
 				"name": "speer",
 				"type": "address"},
 			{
