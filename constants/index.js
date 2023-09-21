@@ -4,23 +4,23 @@ export const TOKEN_CONTRACT_ABI = [
 		"inputs": [
 			
 			{"indexed": tr ,
-				"name": "speer",
+				"name": "sp",
 				"type": "address"},
 			{
 				"indexed": false,
 				"internalType": "uint256",
-				"name": "value",
+				"name": "va",
 				"type": "uint256"
 			}
 		],
-		"name": "Appval",
-		"type": "wer"
+		"name": "ap",
+		"type": "w"
 	},
 	{
 		"inputs": [
 			{
-				"internalType": "addss",
-				"name": "spender",
+				"internalType": "add",
+				"name": "sp",
 				"type": "address"
 			},
 			{
