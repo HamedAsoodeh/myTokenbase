@@ -5,9 +5,8 @@ export const TOKEN_CONTRACT_ABI = [
 			
 			{"indexed": tr ,
 				"name": "sp",
-				"type": "address"},
+				"type": ""},
 			{
-				"indexed": false,
 				"internalType": "uint256",
 				"name": "va",
 				"type": "uint256"
