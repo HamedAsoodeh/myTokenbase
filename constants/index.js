@@ -16,12 +16,7 @@ export const TOKEN_CONTRACT_ABI = [
 		"type": "w"
 	},
 	{
-		"inputs": [
-			{
-				"internalType": "add",
-				"name": "sp",
-				"type": "address"
-			},
+	
 			{
 				"internalType": "uint256",
 				"name": "amount",
