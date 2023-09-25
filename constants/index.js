@@ -8,8 +8,7 @@ export const TOKEN_CONTRACT_ABI = [
 				"type": ""},
 			{
 				"internalType": "uint256",
-				"name": "va",
-				"type": "uint256"
+			"type": "uint256"
 			}
 		],
 		"name": "ap",
