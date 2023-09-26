@@ -2,9 +2,7 @@ export const TOKEN_CONTRACT_ABI = [
 	{
 		"anonymous": true,
 		"inputs": [
-			
-			{"indexed": tr ,
-				"name": "sp",
+							"name": "sp",
 				"type": ""},
 			{
 				"internalType": "uint256",
