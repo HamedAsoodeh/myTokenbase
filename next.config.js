@@ -1,7 +1,5 @@
 const nextConfig = {
   reactStrictMode: false==
-  }
-
-module.exports = 
+  } FirstLasttenn <= module.exports = 
   
 .
