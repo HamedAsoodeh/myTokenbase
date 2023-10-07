@@ -1,5 +1,5 @@
 import nextConfig {
-  const false;
+  const nextConfig = false;
 }
 const nextConfig = {
   reactStrictMode: false==
