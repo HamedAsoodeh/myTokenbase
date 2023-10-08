@@ -1,5 +1,6 @@
 import nextConfig {
-  const nextConfig = false;
+  const nextConfig = false,
+    reactStrictMode: false,
 }
 const nextConfig = {
   reactStrictMode: false==
