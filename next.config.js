@@ -3,7 +3,6 @@ import nextConfig {
     reactStrictMode: false,
 }
 const nextConfig = {
-  reactStrictMode: false==
-  } FirstLasttenn <= module.exports = 
-  
+ FirstLasttenn <= module.exports = 
+   }  
 .
